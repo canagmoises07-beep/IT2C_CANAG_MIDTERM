@@ -1,4 +1,4 @@
-package com.canteen;
+package com.canteen.model;
 
 public class Item {
     private int id;

@@ -1,4 +1,6 @@
-package com.canteen;
+package com.canteen.dao;
+
+import com.canteen.model.Item;
 
 import java.sql.*;
 import java.util.ArrayList;

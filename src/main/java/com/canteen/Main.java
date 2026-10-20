@@ -1,5 +1,8 @@
 package com.canteen;
 
+import com.canteen.dao.ScenarioDao;
+import com.canteen.model.Item;
+
 import java.util.List;
 import java.util.Scanner;
 

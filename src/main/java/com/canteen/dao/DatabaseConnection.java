@@ -1,4 +1,4 @@
-package com.canteen;
+package com.canteen.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
